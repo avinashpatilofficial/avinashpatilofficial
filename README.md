@@ -45,4 +45,16 @@
 
 ---
 
+---
+
+### 📊 GitHub Stats
+![Avinash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=avinashpatilofficial&show_icons=true&theme=tokyonight)
+
+### 💻 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avinashpatilofficial&layout=compact&theme=tokyonight)
+
+### 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=avinashpatilofficial&theme=tokyonight&no-frame=true&row=1)
+
+
 ⭐️ *“Code. Learn. Build. Repeat.”*
