@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Avinash Patil  
+# 👋 Hello, I'm Avinash Patil  
 
 🚀 **Python Backend Developer** with 4 years of experience building scalable web applications and REST APIs using **Flask**, **FastAPI**, and **MySQL**.  
 
